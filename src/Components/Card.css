@@ -1,9 +1,9 @@
-.conteinern {
+.container {
     margin: 20px;
     padding: 20px;
     border: solid black 2px;
 }
-.conteinern img {
+.container img {
     padding: 15px;
     width: 200px;
     border-radius: 50%;
